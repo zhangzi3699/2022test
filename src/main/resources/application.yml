@@ -1,0 +1,5 @@
+#使用yml的格式，   语法 key: 值
+server:
+  port: 8006
+  servlet:
+    context-path: /myboot
